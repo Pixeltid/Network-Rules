@@ -4,10 +4,6 @@ USER-AGENT,duet*
 # > Epic
 DOMAIN-KEYWORD,epicgames
 
-# > Google
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN-SUFFIX,dl.google.com
-
 # > Microsoft
 DOMAIN-SUFFIX,msftconnecttest.com
 
