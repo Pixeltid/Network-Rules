@@ -5,7 +5,7 @@
 # =========================================
 
 # > Add（可莉误杀）
-URL-REGEX,^http:\/\/.+\/amdc\/mobileDispatch
+DOMAIN,mobileDispatch
 
 # > Unbreak
 DOMAIN,app.adjust.com
