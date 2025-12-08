@@ -4,6 +4,9 @@
 # 更新时间：2025-11-11
 # =========================================
 
+# > Add（可莉误杀）
+URL-REGEX,^http:\/\/.+\/amdc\/mobileDispatch
+
 # > Unbreak
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
