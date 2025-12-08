@@ -5,6 +5,7 @@
 # =========================================
 
 # > Add（可莉误杀）
+DOMAIN,hudong.alicdn.com
 URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"
 
 # > Unbreak
