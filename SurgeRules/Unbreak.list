@@ -5,9 +5,9 @@
 # =========================================
 
 # > Add（可莉误杀）
-DOMAIN,amdc.m.taobao.com
-DOMAIN,hudong.alicdn.com
-URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"
+# DOMAIN,amdc.m.taobao.com
+# DOMAIN,hudong.alicdn.com
+# URL-REGEX,"^http:\/\/.+\/amdc\/mobileDispatch"
 
 # > Unbreak
 DOMAIN,app.adjust.com
