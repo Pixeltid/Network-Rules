@@ -9,3 +9,6 @@ DOMAIN,immersivetranslate.com
 
 # > Sukka 远程规则
 DOMAIN-SUFFIX,ruleset.skk.moe
+
+# > 可莉
+DOMAIN-SUFFIX,kelee.one
