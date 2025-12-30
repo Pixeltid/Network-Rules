@@ -1,7 +1,7 @@
 # =========================================
 # 📦 Add List
 # 用途：额外的远程自用规则
-# 更新时间：2025-12-10
+# 更新时间：2025-12-31
 # =========================================
 
 # > 沉浸式翻译国际版
@@ -9,6 +9,9 @@ DOMAIN,immersivetranslate.com
 
 # > Sukka 远程规则
 DOMAIN-SUFFIX,ruleset.skk.moe
+
+# > 更新
+DOMAIN-SUFFIX,dler.cloud
 
 # > 可莉
 DOMAIN-SUFFIX,kelee.one
