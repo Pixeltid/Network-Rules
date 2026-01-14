@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,ruleset.skk.moe
 # > 更新
 DOMAIN-SUFFIX,dler.cloud
 
+# > 降低 v2 风控
+DOMAIN-SUFFIX,v2ex
+
 # > 可莉
 DOMAIN-SUFFIX,kelee.one
 
