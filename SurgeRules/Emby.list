@@ -419,8 +419,8 @@ DOMAIN-SUFFIX,emby.ytoo.li
 
 # YounoPlus
 DOMAIN,plus.younoyes.com
-DOMAIN,plushk1.younoyes.com
-DOMAIN,plushk2.younoyes.com
+# DOMAIN,plushk1.younoyes.com
+# DOMAIN,plushk2.younoyes.com
 
 # Yunti
 DOMAIN-SUFFIX,yunti.online
