@@ -419,7 +419,8 @@ DOMAIN-SUFFIX,emby.ytoo.li
 
 # YounoPlus
 DOMAIN,plus.younoyes.com
-
+DOMAIN,plushk1.younoyes.com
+DOMAIN,plushk2.younoyes.com
 
 # Yunti
 DOMAIN-SUFFIX,yunti.online
@@ -461,7 +462,6 @@ DOMAIN-SUFFIX,zi0.icu
 
 # 105°
 DOMAIN-SUFFIX,ciallo.party
-
 
 ##### 未分类 #####
 
