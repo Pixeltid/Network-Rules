@@ -415,7 +415,11 @@ DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,emby.ytoo.li
 
 # YounoEmby
-DOMAIN-SUFFIX,younoyes.com
+# DOMAIN-SUFFIX,younoyes.com
+
+# YounoPlus
+DOMAIN,plus.younoyes.com
+
 
 # Yunti
 DOMAIN-SUFFIX,yunti.online
